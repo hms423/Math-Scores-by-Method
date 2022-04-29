@@ -1,6 +1,6 @@
 https://www.kaggle.com/datasets/soumyadiptadas/students-math-score-for-different-teaching-style 
 
-About Dataset
+About Dataset (taken from kaggle.com)
 Assume you are the new superintendent of School District which has a Junior High School that consists of approximately 500 students in grades 7-8. Students are randomly assigned to grade-level, subject-specific classroom teachers. The school is diverse socioeconomically with several students qualifying for free or reduced-price meals. The ethnic composition of the school is relatively diverse consisting primarily of African-American, Hispanic, Asian, and Caucasian students.
 
 There are three teachers who teach 8th-grade math at the school, each doing their own thing when it comes to teaching math. Ms. Ruger, a young African-American lady who is certified to teach science and math, has been teaching for a total of 5 years and has taught math for the past 3 years. Ms. Smith, a Caucasian lady in her 40s who is certified to teach Spanish and math, has taught Spanish for 12 years but has taught math for the past 3 years. Ms. Wesson, an older Caucasian lady and the sister of the school board president, has been teaching PE for 24 years and has been assigned to teach math for the past 3 years. Each teacher was allowed to use their preferred teaching method and to select their own textbook three years ago. All three use different textbooks.
